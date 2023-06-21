@@ -1,4 +1,4 @@
-### HC-05 - BC417
+### HC-05 Development board
 
 ![3D render of the HC-05 prototype board](./3d.png)
 
